@@ -6,3 +6,7 @@ p {
   font-family: sans-serif;
   font-size: 150%;
 }
+
+body {
+  background-color: lightblue;
+}
